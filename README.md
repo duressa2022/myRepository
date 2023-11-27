@@ -10,6 +10,4 @@
  * Modifiying this code in a part or as Whole is possible and incremental modification is
    suggested please inform the author any modification you have done.
  * Please contact the Author,if you need additional information or have any questions.
-     *Author:Duressa Shukuri
-     *Email:duressashukuri2022@gmail.com
 """
